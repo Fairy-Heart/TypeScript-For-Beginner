@@ -9,3 +9,8 @@ output : Error
 */
 
 console.log(`${myTuple[0]}`);
+
+//optional arguments tuple
+
+let myTup : [string, number?];
+myTup = ['Mavis'];
