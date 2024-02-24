@@ -1,8 +1,8 @@
-function sumNumber(a: number, b: number) {
+function sumNumber(a: number, b: number): number {
 	return a + b;
 }
 
-const sumNumber2 = (a: number, b: number) => {
+const sumNumber2 = (a: number, b: number): number => {
 	return a + b;
 }
 
